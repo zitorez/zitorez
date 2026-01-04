@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @zitorez
-- 👀 I’m interested in EVM and Aptos/SUI Ecosystem. I'm working on Solidity, Golang, Move, Typescript/JS...
-- ...
-- 📫 Should you need any further information, please do not hesitate to contact me via email: zzitorez@gmail.com
+👋 Hi, I’m @zitorez
+
+👀 I’m interested in EVM and Solana
+
+🧠 I enjoy vibe coding, building & experimenting with Web3 protocols
+
+💻 Currently working with Solidity, Rust (Solana), Golang, TypeScript/JavaScript
+
+⚙️ Focus areas: DeFi, infrastructure, on-chain data, MEV, smart contracts
+
+📫 Should you need any further information, please feel free to contact me via email: zzitorez@gmail.com
